@@ -45,7 +45,7 @@ const Index = () => {
             </div>
             
             <h1 className="animate-slide-up font-serif text-4xl font-bold tracking-tight text-white md:text-5xl lg:text-6xl">
-              Gérez et partagez vos références scientifiques
+              Gérez vos références scientifiques
             </h1>
             
             <p className="animate-slide-up delay-100 mt-6 text-lg text-white/80 md:text-xl">
